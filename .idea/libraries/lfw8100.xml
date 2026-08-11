@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lfw8100">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/8100 kerza/lfw8100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
